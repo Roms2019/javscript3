@@ -1,4 +1,4 @@
-// 1.
+f// 1.
 // [] adicionar a tag <script> no html
 // [] verificar se está lendo index.js
 // [] alterar cor de <body>
